@@ -1,7 +1,4 @@
-/* =========================================
-   GLOBAL STYLES
-========================================= */
-
+/* GLOBAL STYLES */
 * {
     margin: 0;
     padding: 0;
@@ -54,9 +51,7 @@ p {
 }
 
 
-/* =========================================
-   HEADER / NAVIGATION
-========================================= */
+/* HEADER / NAVIGATION */
 
 header {
     background: linear-gradient(135deg, #0f172a, #1e3a5f);
@@ -148,9 +143,7 @@ nav h1 {
 }
 
 
-/* =========================================
-   MAIN SECTIONS
-========================================= */
+/* MAIN SECTIONS */
 
 main {
     padding-bottom: 50px;
@@ -165,9 +158,7 @@ section:nth-child(even) {
 }
 
 
-/* =========================================
-   ABOUT SECTION
-========================================= */
+/* ABOUT SECTION */
 
 .about-me {
     text-align: center;
@@ -208,9 +199,7 @@ section:nth-child(even) {
 }
 
 
-/* =========================================
-   SKILLS SECTION
-========================================= */
+/* SKILLS SECTION */
 
 .myskills h2 {
     text-align: center;
@@ -248,9 +237,7 @@ section:nth-child(even) {
 }
 
 
-/* =========================================
-   PROJECT SECTION
-========================================= */
+/* PROJECT SECTION */
 
 .project > h2 {
     text-align: center;
@@ -296,9 +283,7 @@ section:nth-child(even) {
 }
 
 
-/* =========================================
-   MESSAGE / CONTACT FORM
-========================================= */
+/* MESSAGE / CONTACT FORM */
 
 #message {
     background-color: #eaf4fb;
@@ -373,9 +358,7 @@ section:nth-child(even) {
 }
 
 
-/* =========================================
-   RESPONSIVE DESIGN - TABLETS
-========================================= */
+/* RESPONSIVE DESIGN - TABLETS */
 
 @media (max-width: 900px) {
 
@@ -401,9 +384,7 @@ section:nth-child(even) {
 }
 
 
-/* =========================================
-   RESPONSIVE DESIGN - MOBILE
-========================================= */
+/* RESPONSIVE DESIGN - MOBILE */
 
 @media (max-width: 600px) {
 
